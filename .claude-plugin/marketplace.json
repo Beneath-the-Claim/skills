@@ -1,0 +1,42 @@
+{
+  "name": "beneaththeclaim",
+  "description": "Free skills for AI coding agents, built from the books reviewed on Beneath the Claim",
+  "owner": {
+    "name": "Beneath the Claim",
+    "url": "https://beneaththeclaim.com"
+  },
+  "plugins": [
+    {
+      "name": "domain-driven-design",
+      "source": "./engineering/domain-driven-design",
+      "description": "Eric Evans's Domain-Driven Design (2003), the principles that still hold when agents write the code",
+      "category": "engineering",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/domain-driven-design-in-the-age-of-ai/"
+    },
+    {
+      "name": "modern-software-engineering",
+      "source": "./engineering/modern-software-engineering",
+      "description": "David Farley's Modern Software Engineering (2021), the principles that still hold when agents write the code",
+      "category": "engineering",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/modern-software-engineering-in-the-age-of-ai/"
+    },
+    {
+      "name": "pragmatic-programmer",
+      "source": "./engineering/pragmatic-programmer",
+      "description": "Hunt and Thomas's The Pragmatic Programmer (1999, 2019), the principles that still hold when agents write the code",
+      "category": "engineering",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/the-pragmatic-programmer-in-the-age-of-ai/"
+    },
+    {
+      "name": "mythical-man-month",
+      "source": "./organisation/mythical-man-month",
+      "description": "Frederick P. Brooks Jr.'s The Mythical Man-Month (1975, 1995), the principles that still hold when agents write the code",
+      "category": "organisation",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/the-mythical-man-month-in-the-age-of-ai/"
+    }
+  ]
+}

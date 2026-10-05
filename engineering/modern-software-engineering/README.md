@@ -1,4 +1,4 @@
-# Modern Software Engineering, as a skill for coding agents
+# Rules from *Modern Software Engineering*, as a skill for coding agents
 
 Twenty-five rules from David Farley's *Modern Software Engineering* (2021): the principles that still hold,
 or hold harder, now that AI agents write much of the code. Nothing in the book broke; the principles that
@@ -9,6 +9,8 @@ files. Copy the folder into your agent's skills directory.
 
 - Why each rule got its ruling: [the verdict](https://beneaththeclaim.com/writing/modern-software-engineering-in-the-age-of-ai/)
 - The book in its own world: [the review](https://beneaththeclaim.com/writing/modern-software-engineering-in-its-own-time/)
+
+The skill is not affiliated with, sponsored by or endorsed by the book's author or publisher, and quotes none of the book.
 
 ## Tested
 

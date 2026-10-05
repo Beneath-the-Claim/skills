@@ -20,7 +20,7 @@ Expected moves made out of 5, with the skill and without it.
 |---|---|---|---|
 | [`domain-driven-design`](engineering/domain-driven-design/) | Eric Evans, *Domain-Driven Design* (2003) | 4.2 | 2.3 |
 | [`modern-software-engineering`](engineering/modern-software-engineering/) | David Farley, *Modern Software Engineering* (2021) | 4.6 | 4.4 |
-| [`pragmatic-programmer`](engineering/pragmatic-programmer/) | Andrew Hunt and David Thomas, *The Pragmatic Programmer* (1999, 2019) | 4.6 | 4.0 |
+| [`programmer-craft`](engineering/programmer-craft/) | Andrew Hunt and David Thomas, *The Pragmatic Programmer* (1999, 2019) | 4.6 | 4.0 |
 
 ### Organisation
 
@@ -41,6 +41,13 @@ Expected moves made out of 5, with the skill and without it.
 the skill's folder, for example `engineering/domain-driven-design/`, into your agent's skills directory.
 
 **Claude apps**: upload the skill's folder as a zip in Claude's skill settings.
+
+## Not affiliated
+
+The skills are not affiliated with, sponsored by or endorsed by the books' authors or publishers. Each is a set
+of rules written after reviewing the book it names; none quotes the book or carries its text. A title is named
+only to say which book a skill comes from. *The Pragmatic Programmer* is a trademark of The Pragmatic
+Programmers, LLC; the other titles belong to their owners.
 
 ## Licence
 

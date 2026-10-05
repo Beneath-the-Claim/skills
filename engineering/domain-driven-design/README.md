@@ -1,4 +1,4 @@
-# Domain-Driven Design, as a skill for coding agents
+# Rules from *Domain-Driven Design*, as a skill for coding agents
 
 Thirty-eight rules from Eric Evans's *Domain-Driven Design* (2003): the principles that still hold, or hold
 harder, now that AI agents write much of the code. One principle broke, and it is listed so it is not applied by
@@ -9,6 +9,8 @@ the folder into your agent's skills directory.
 
 - Why each rule got its ruling: [the verdict](https://beneaththeclaim.com/writing/domain-driven-design-in-the-age-of-ai/)
 - The book in its own world: [the review](https://beneaththeclaim.com/writing/domain-driven-design-in-its-own-time/)
+
+The skill is not affiliated with, sponsored by or endorsed by the book's author or publisher, and quotes none of the book.
 
 ## Tested
 

@@ -3,7 +3,7 @@ name: mythical-man-month
 description: Use when planning or rescuing a late software project, deciding whether to add people or AI coding agents to a schedule, estimating, splitting work across engineers or parallel agents, reviewing a design or a feature list for coherence, deciding what to build when building is cheap, writing a specification or context for coding agents, growing a system incrementally, or judging a productivity claim for a tool. Applies the principles of Frederick P. Brooks Jr.'s The Mythical Man-Month that still hold now that AI agents write much of the code, and leaves out the ones that broke.
 ---
 
-# The Mythical Man-Month, for teams that work with coding agents
+# Rules from The Mythical Man-Month, for teams that work with coding agents
 
 Eighteen rules from Brooks's book (1975, enlarged 1995). Only principles that were judged to
 **strengthen**, **hold** or **bend** in the age of AI coding agents are here; what broke is listed at

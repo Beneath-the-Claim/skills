@@ -1,9 +1,9 @@
 ---
-name: pragmatic-programmer
+name: programmer-craft
 description: Use when a software engineer or tech lead is working with AI coding agents and is briefing an agent for a change, reviewing or merging agent-written code or tests, designing or restructuring code that agents will keep changing, starting a project or a first slice, debugging with an agent, working in a codebase with known hacks or duplication, or deciding how to defend code nobody read line by line. Applies the principles of Hunt and Thomas's The Pragmatic Programmer (1999, rewritten 2019) that still hold now that AI agents write much of the code, and leaves out the ones that broke.
 ---
 
-# The Pragmatic Programmer, for engineers who work with coding agents
+# Rules from The Pragmatic Programmer, for engineers who work with coding agents
 
 Nineteen rules from Hunt and Thomas's book (1999, rewritten by the authors in 2019). Only principles
 judged to **strengthen**, **hold** or **bend** in the age of AI coding agents are here; what broke is

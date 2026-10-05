@@ -3,7 +3,7 @@ name: modern-software-engineering
 description: Use when an engineering leader or engineer works with AI coding agents and is scaling the number of agents on a codebase, splitting work between parallel agents, setting up tests or a pipeline for agent-written code, measuring whether an AI rollout is working, deciding what to optimise for, or designing code, data and interfaces that agents will keep changing. Applies the principles of David Farley's Modern Software Engineering (2021) that still hold now that AI agents write much of the code, in the form in which they hold.
 ---
 
-# Modern Software Engineering, for teams that work with coding agents
+# Rules from Modern Software Engineering, for teams that work with coding agents
 
 Rules from David Farley's book (2021). The book asks engineers to be experts at two things, learning and
 managing complexity, and every principle in it was ruled on for the age of AI coding agents. None broke; many

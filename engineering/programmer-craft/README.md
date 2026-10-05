@@ -1,14 +1,17 @@
-# The Pragmatic Programmer, as a skill for coding agents
+# Rules from *The Pragmatic Programmer*, as a skill for coding agents
 
 Nineteen rules from Hunt and Thomas's *The Pragmatic Programmer* (1999, rewritten by the authors in
 2019): the principles that still hold, or hold harder, now that AI agents write much of the code. The
 ones that broke are listed so that an agent does not apply them by habit.
 
-Free. One folder in the open Agent Skills format: `pragmatic-programmer/SKILL.md` plus six reference
+Free. One folder in the open Agent Skills format: `programmer-craft/SKILL.md` plus six reference
 files. Copy the folder into your agent's skills directory.
 
 - Why each rule got its ruling: [the verdict](https://beneaththeclaim.com/writing/the-pragmatic-programmer-in-the-age-of-ai/)
 - The book in its own world: [the review](https://beneaththeclaim.com/writing/the-pragmatic-programmer-in-its-own-time/)
+
+The skill is not affiliated with, sponsored by or endorsed by the book's authors or publisher, and quotes none of the book.
+*The Pragmatic Programmer* is a trademark of The Pragmatic Programmers, LLC.
 
 ## Tested
 

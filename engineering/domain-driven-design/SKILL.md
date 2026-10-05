@@ -3,7 +3,7 @@ name: domain-driven-design
 description: Use when an engineering leader or engineer works with AI coding agents on business software and is naming or untangling domain concepts, stopping agents from duplicating a concept, splitting a monolith or drawing service and team boundaries, integrating with another system or model, deciding where the best people and review should go, setting up a new domain module for agents to build, or deciding how much structure to fix up front. Applies the principles of Eric Evans's Domain-Driven Design (2003) that still hold now that AI agents write much of the code, in the form in which they hold.
 ---
 
-# Domain-Driven Design, for teams that work with coding agents
+# Rules from Domain-Driven Design, for teams that work with coding agents
 
 Rules from Eric Evans's book (2003). The book holds that the hard part of business software is the domain, not the
 technology, and every principle in it was ruled on for the age of AI coding agents. Agents make code cheap and leave

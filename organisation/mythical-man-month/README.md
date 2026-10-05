@@ -1,4 +1,4 @@
-# The Mythical Man-Month, as a skill for coding agents
+# Rules from *The Mythical Man-Month*, as a skill for coding agents
 
 Eighteen rules from Frederick P. Brooks Jr.'s *The Mythical Man-Month* (1975, enlarged 1995): the
 principles that still hold, or hold harder, now that AI agents write much of the code. The ones that
@@ -9,6 +9,8 @@ files. Copy the folder into your agent's skills directory.
 
 - Why each rule got its ruling: [the verdict](https://beneaththeclaim.com/writing/the-mythical-man-month-in-the-age-of-ai/)
 - The book in its own world: [the review](https://beneaththeclaim.com/writing/the-mythical-man-month-in-its-own-time/)
+
+The skill is not affiliated with, sponsored by or endorsed by the book's author or publisher, and quotes none of the book.
 
 ## Tested
 

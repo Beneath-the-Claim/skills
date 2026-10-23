@@ -7,6 +7,14 @@
   },
   "plugins": [
     {
+      "name": "distributed-architecture-trade-offs",
+      "source": "./engineering/distributed-architecture-trade-offs",
+      "description": "Rules from a review of Ford, Richards, Sadalage and Dehghani's Software Architecture: The Hard Parts (2021): the principles that still hold when agents write the code and run inside the system",
+      "category": "engineering",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/software-architecture-the-hard-parts-in-the-age-of-ai/"
+    },
+    {
       "name": "domain-driven-design",
       "source": "./engineering/domain-driven-design",
       "description": "Rules from a review of Eric Evans's Domain-Driven Design (2003): the principles that still hold when agents write the code",

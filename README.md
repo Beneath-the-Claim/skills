@@ -18,6 +18,7 @@ Expected moves made out of 5, with the skill and without it.
 
 | Skill | Book | With | Without |
 |---|---|---|---|
+| [`distributed-architecture-trade-offs`](engineering/distributed-architecture-trade-offs/) | Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani, *Software Architecture: The Hard Parts* (2021) | 4.4 | 3.1 |
 | [`domain-driven-design`](engineering/domain-driven-design/) | Eric Evans, *Domain-Driven Design* (2003) | 4.2 | 2.3 |
 | [`modern-software-engineering`](engineering/modern-software-engineering/) | David Farley, *Modern Software Engineering* (2021) | 4.6 | 4.4 |
 | [`programmer-craft`](engineering/programmer-craft/) | Andrew Hunt and David Thomas, *The Pragmatic Programmer* (1999, 2019) | 4.6 | 4.0 |
@@ -47,7 +48,8 @@ the skill's folder, for example `engineering/domain-driven-design/`, into your a
 The skills are not affiliated with, sponsored by or endorsed by the books' authors or publishers. Each is a set
 of rules written after reviewing the book it names; none quotes the book or carries its text. A title is named
 only to say which book a skill comes from. *The Pragmatic Programmer* is a trademark of The Pragmatic
-Programmers, LLC; the other titles belong to their owners.
+Programmers, LLC, and *Software Architecture: The Hard Parts* of O'Reilly Media, Inc.; the other titles belong to
+their owners.
 
 ## Licence
 

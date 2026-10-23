@@ -45,6 +45,14 @@
       "category": "organisation",
       "license": "MIT",
       "homepage": "https://beneaththeclaim.com/writing/the-mythical-man-month-in-the-age-of-ai/"
+    },
+    {
+      "name": "working-across-cultures",
+      "source": "./organisation/working-across-cultures",
+      "description": "Rules from a review of Erin Meyer's The Culture Map (2014): the principles that still hold when AI drafts, translates and summarises what colleagues say across cultures and agents join the team",
+      "category": "organisation",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/the-culture-map-in-the-age-of-ai/"
     }
   ]
 }

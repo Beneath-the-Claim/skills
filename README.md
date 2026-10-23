@@ -28,6 +28,7 @@ Expected moves made out of 5, with the skill and without it.
 | Skill | Book | With | Without |
 |---|---|---|---|
 | [`mythical-man-month`](organisation/mythical-man-month/) | Frederick P. Brooks Jr., *The Mythical Man-Month* (1975, 1995) | 4.4 | 3.1 |
+| [`working-across-cultures`](organisation/working-across-cultures/) | Erin Meyer, *The Culture Map* (2014) | 4.3 | 3.7 |
 
 ## Install
 
@@ -49,7 +50,8 @@ The skills are not affiliated with, sponsored by or endorsed by the books' autho
 of rules written after reviewing the book it names; none quotes the book or carries its text. A title is named
 only to say which book a skill comes from. *The Pragmatic Programmer* is a trademark of The Pragmatic
 Programmers, LLC, and *Software Architecture: The Hard Parts* of O'Reilly Media, Inc.; the other titles belong to
-their owners.
+their owners. *The Culture Map* is also the name of The Culture Map Inc., which runs its author's website; the
+skills are not affiliated with it either.
 
 ## Licence
 

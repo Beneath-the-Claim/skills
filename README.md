@@ -7,8 +7,9 @@ carries the principles that held into the agent's own context, and lists the one
 not apply them by habit.
 
 Each skill is one folder in the open [Agent Skills](https://agentskills.io/specification) format: a `SKILL.md`
-plus reference files. Each was tested once, on three tasks written by someone who had not seen it; the result,
-with what it does and does not show, is in the skill's README.
+plus reference files. Each was tested on three tasks written by someone who had not seen it, once, or for
+`data-engineering-lifecycle` once per version, three times; the results, with what they do and do not show, are in
+each skill's README.
 
 ## Skills
 
@@ -18,6 +19,7 @@ Expected moves made out of 5, with the skill and without it.
 
 | Skill | Book | With | Without |
 |---|---|---|---|
+| [`data-engineering-lifecycle`](engineering/data-engineering-lifecycle/) | Joe Reis and Matt Housley, *Fundamentals of Data Engineering* (2022) | 1.9 | 1.9 |
 | [`distributed-architecture-trade-offs`](engineering/distributed-architecture-trade-offs/) | Neal Ford, Mark Richards, Pramod Sadalage and Zhamak Dehghani, *Software Architecture: The Hard Parts* (2021) | 4.4 | 3.1 |
 | [`domain-driven-design`](engineering/domain-driven-design/) | Eric Evans, *Domain-Driven Design* (2003) | 4.2 | 2.3 |
 | [`modern-software-engineering`](engineering/modern-software-engineering/) | David Farley, *Modern Software Engineering* (2021) | 4.6 | 4.4 |
@@ -49,7 +51,8 @@ the skill's folder, for example `engineering/domain-driven-design/`, into your a
 The skills are not affiliated with, sponsored by or endorsed by the books' authors or publishers. Each is a set
 of rules written after reviewing the book it names; none quotes the book or carries its text. A title is named
 only to say which book a skill comes from. *The Pragmatic Programmer* is a trademark of The Pragmatic
-Programmers, LLC, and *Software Architecture: The Hard Parts* of O'Reilly Media, Inc.; the other titles belong to
+Programmers, LLC, and *Software Architecture: The Hard Parts* and *Fundamentals of Data Engineering* of O'Reilly
+Media, Inc.; the other titles belong to
 their owners. *The Culture Map* is also the name of The Culture Map Inc., which runs its author's website; the
 skills are not affiliated with it either.
 

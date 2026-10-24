@@ -7,6 +7,14 @@
   },
   "plugins": [
     {
+      "name": "data-engineering-lifecycle",
+      "source": "./engineering/data-engineering-lifecycle",
+      "description": "Rules from a review of Joe Reis and Matt Housley's Fundamentals of Data Engineering (2022): the principles that still hold when agents write the pipelines and read the data",
+      "category": "engineering",
+      "license": "MIT",
+      "homepage": "https://beneaththeclaim.com/writing/fundamentals-of-data-engineering-in-the-age-of-ai/"
+    },
+    {
       "name": "distributed-architecture-trade-offs",
       "source": "./engineering/distributed-architecture-trade-offs",
       "description": "Rules from a review of Ford, Richards, Sadalage and Dehghani's Software Architecture: The Hard Parts (2021): the principles that still hold when agents write the code and run inside the system",
